@@ -4,7 +4,6 @@ draft: false
 tags:
   - tutoriel
   - fr
-  - obsidian
   - github
 ---
 # Installation de Quartz en local
@@ -151,4 +150,4 @@ npx quartz sync
 Une fois tout cela fait, vous pouvez vous rendre sur l'URL de votre page Github, et voilà :
 ![[index_quartz.png]]
 
-Pour ceux qui souhaitent utiliser Obsidian comme éditeur de texte pour vos pages Quartz, voyez ici comment configurer la [[Synchronisation de Quartz et Obsidian]].
+Pour ceux qui souhaitent utiliser Obsidian comme éditeur de texte pour vos pages Quartz, voyez ici comment configurer la [[Synchronisation entre Quartz et Obsidian]].

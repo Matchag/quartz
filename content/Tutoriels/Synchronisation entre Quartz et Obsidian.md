@@ -20,3 +20,7 @@ Une fois cela fait, vous devrez redémarrer Obsidian, et votre clone sera dans v
 
 Tout ce que vous écrivez dans `content` sera affiché sur votre site.
 Pour mettre à jour Quartz via Obsidian, vous pouvez faire `CTRL + P`, puis `Git: Commit all changes` puis `Git: Push`.
+
+>[!tip]
+> Vous pouvez créer des raccourcis de touches pour ces commandes en allant dans les paramètres d'Obsidian directement.
+
