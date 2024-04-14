@@ -6,10 +6,6 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/Matchag",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
   }),
 }
 
