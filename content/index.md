@@ -5,7 +5,7 @@ tags: []
 
 Bienvenue à tous !
 
-Je me présente, Matchag, 22 ans et étudiant en cybersécurité dans le coin de Nancy.
+Je me présente, Matchag, étudiant en cybersécurité dans le coin de Nancy.
 
 Sur ce site je partagerai des tutoriels d'outils qui me font gagner en productivité, en sécurité ou juste que je trouve intéressant.
 
