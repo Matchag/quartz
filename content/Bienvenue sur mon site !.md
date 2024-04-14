@@ -14,4 +14,6 @@ Vous pouvez déjà trouver quelques tutoriels que j'ai réalisé pour Quartz, l'
 
 Il combine 2 outils que j'utilise assez régulièrement dans ma vie personnelle comme professionnelle : Github et Obsidian. Obsidian est un éditeur de texte en Markdown, si vous voulez plus d'informations, je vous laisse voir leur [site](https://obsidian.md/).
 
-
+Mes tutoriels récents :
+- [[Installation de Quartz]]
+- [[Synchronisation entre Quartz et Obsidian]]
