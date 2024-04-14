@@ -1,7 +1,6 @@
 ---
 title: Bienvenue sur mon site !
-tags:
-  - fr
+tags: []
 ---
 
 Bienvenue à tous !
