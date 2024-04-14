@@ -1,5 +1,5 @@
 ---
-title: Synchronisation de Quartz et Obsidian
+title: Synchronisation entre Quartz et Obsidian
 draft: false
 tags:
   - tutoriel
