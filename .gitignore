@@ -9,3 +9,5 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+docs/
+CODE_OF_CONDUCT.md
