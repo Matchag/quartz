@@ -139,5 +139,5 @@ Une fois cela fait, appuyer sur `CTRL + P` et cherchez `Git: clone an exisiting 
 La remote URL sera votre lien de votre repository, et ensuite écrivez le nom du dossier où vous souhaitez mettre le clone de votre repository.
 Une fois cela fait, vous devrez redémarrer Obsidian, et votre clone sera dans votre Vault !
 Tout ce que vous écrivez dans `content` sera affiché sur votre site.
-Pour mettre à jour via Obsidian, vous pouvez faire `CTRL + P`, puis `Git: Push`.
+Pour mettre à jour via Obsidian, vous pouvez faire `CTRL + P`, puis `Git: Commit all changes` puis `Git: Push`.
 
