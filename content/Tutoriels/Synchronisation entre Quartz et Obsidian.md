@@ -6,7 +6,7 @@ tags:
   - fr
   - obsidian
   - github
-dateCreated: 2024-04-13
+dateCreated: 2024-04-14
 ---
 Avant toute chose, en suivant ce tutoriel, je considère que vous avez installé et configuré Quartz localement et qu'il est déployé sur une page Github, si ce n'est pas le cas, voyez [ce tutoriel](Installation de Quartz).
 
