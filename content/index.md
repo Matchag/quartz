@@ -1,5 +1,5 @@
 ---
-title: Bienvenue sur mon site !
+title: Bienvenue sur mon blog !
 tags: []
 ---
 
