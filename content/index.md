@@ -1,6 +1,7 @@
 ---
 title: Bienvenue sur mon blog !
 tags: []
+date: 2024-04-14T15:45:30.123Z
 ---
 
 Bienvenue à tous !
