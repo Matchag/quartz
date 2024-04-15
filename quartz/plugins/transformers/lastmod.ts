@@ -9,7 +9,7 @@ export interface Options {
 }
 
 const defaultOptions: Options = {
-  priority: ["frontmatter", "filesystem", "git""filesystem"],
+  priority: ["frontmatter", "filesystem", "git"],
 }
 
 function coerceDate(fp: string, d: any): Date {
