@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "null",
     },
     locale: "fr-FR",
     baseUrl: "quartz.matchag.xyz",
