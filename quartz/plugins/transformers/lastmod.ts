@@ -5,11 +5,11 @@ import { QuartzTransformerPlugin } from "../types"
 import chalk from "chalk"
 
 export interface Options {
-  priority: ("frontmatter", "filesystem", "git")[]
+  priority: ("frontmatter" | "filesystem" | "git")[]
 }
 
 const defaultOptions: Options = {
-  priority: ["frontmatter", "filesystem", "git"],
+  priority: ["frontmatter", "filesystem", "git""filesystem"],
 }
 
 function coerceDate(fp: string, d: any): Date {
