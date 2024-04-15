@@ -5,8 +5,7 @@ tags:
   - tutoriel
   - fr
   - github
-date:
-  - created: 2024-14-04
+date: 2024-14-04
 ---
 # Installation de Quartz en local
 
