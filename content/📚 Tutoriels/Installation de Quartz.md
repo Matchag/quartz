@@ -7,6 +7,11 @@ tags:
   - github
 date: 2024-04-14T15:45:30.123Z
 ---
+
+Bonjour à tous !
+
+Je vais vous présenter comment créer votre propre blog grâce à 2 outils : **Quartz** et **Github Pages**.
+
 # Installation de Quartz en local
 
 ## NodeJS et Git
