@@ -8,7 +8,7 @@ Bienvenue à tous !
 
 Je me présente, Matchag, étudiant en cybersécurité dans le coin de Nancy.
 
-Sur ce site je partagerai des tutoriels d'outils qui me font gagner en productivité, en sécurité ou juste que je trouve intéressant.
+Sur ce site je partagerai des outils que je trouve intéressant.
 
 Vous pouvez déjà trouver quelques tutoriels que j'ai réalisé pour Quartz, l'outil que j'ai utilisé pour faire ce site !
 

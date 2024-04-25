@@ -1,6 +1,6 @@
 ---
 title: Découverte de CISO Assistant
-draft: false
+draft: true
 tags:
   - outils
   - fr
@@ -33,3 +33,7 @@ Commençons par créer notre première mise en conformité.
 Dans un premier temps, il faut créer ce que l'outil appelle un `folder`, autrement dit, un domaine. Dans le menu à gauche, il faudra aller dans `Organization > Domains` :
 ![[organization_domains.png]]
 Puis `Add domain`. Pour cette exemple, je vais lui donner le nom IT.
+
+Pour savoir 
+
+
