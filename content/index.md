@@ -17,5 +17,4 @@ Il combine 2 outils que j'utilise assez régulièrement dans ma vie personnelle 
 Mes posts récents :
 - [[Installation de Quartz]]
 - [[Synchronisation entre Quartz et Obsidian]]
-- [[CISO Assistant]]
 
