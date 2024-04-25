@@ -9,6 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/Matchag",
       "Discord Community": "https://discord.gg/be-cyber",
+      "Contact": "mailto:contact@matchag.xyz"
     },
   }),
 }
