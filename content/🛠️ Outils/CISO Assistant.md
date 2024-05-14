@@ -34,6 +34,12 @@ Dans un premier temps, il faut créer ce que l'outil appelle un `folder`, autrem
 ![[organization_domains.png]]
 Puis `Add domain`. Pour cette exemple, je vais lui donner le nom IT.
 
-Pour savoir 
+Une fois cela fait, nous pouvons importer notre premier référentiel !
+Il faudra aller dans `Extra > Libraries`.
+![[extra_libraries.png]]
+
+Pour ma part, je vais ajouter le référentiel du RGPD :
+![[gdpr.png]]
+
 
 
